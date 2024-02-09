@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace APP_NewGit
 {
-    public partial class Form2 : Form
+    public partial class Clientes : Form
     {
-        public Form2()
+        public Clientes()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
